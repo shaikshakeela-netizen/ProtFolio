@@ -1,0 +1,70 @@
+:root {
+  --primary-bg: #101014;       /* Deep near-black navy */
+  --secondary-bg: #1A1A20;     /* Slightly lighter for section contrast */
+  --accent1: #E63946;          /* Strong crimson red for main highlights */
+  --lightaccent1: #F28482;     /* Soft coral-red for hover states */
+  --accent2: #4CC9F0;          /* Bright sky blue for secondary accents */
+  --text-primary: #F6F6F6;     /* Crisp white for high readability */
+  --text-secondary: #B4B4C7;   /* Muted cool-gray for secondary text */
+  --border: #2B2B34;           /* Subtle bluish-gray for borders */
+}
+
+
+:root {
+  --primary-bg: #0E1210;       /* Deep charcoal with a hint of green */
+  --secondary-bg: #181D1A;     /* Slightly lighter greenish-black */
+  --accent1: #00C853;          /* Fresh emerald green for main highlights */
+  --lightaccent1: #6EEB83;     /* Soft mint green for hover states */
+  --accent2: #FFD54F;          /* Warm gold for secondary accents */
+  --text-primary: #F5F5F5;     /* Bright white for readability */
+  --text-secondary: #B5BEB8;   /* Muted gray-green for descriptions */
+  --border: #27312B;           /* Subtle green-gray border */
+}
+
+
+:root {
+  --primary-bg: #121018;       /* Deep black-purple */
+  --secondary-bg: #1C1A24;     /* Slightly lighter for contrast */
+  --accent1: #9B5DE5;          /* Vibrant purple for main highlights */
+  --lightaccent1: #C89AF2;     /* Softer lavender for hover states */
+  --accent2: #00F5D4;          /* Bright teal for secondary accents */
+  --text-primary: #F4F4F4;     /* Crisp white for main text */
+  --text-secondary: #B3B0C4;   /* Muted lavender-gray for details */
+  --border: #2A2634;           /* Subtle dark purple-gray for dividers */
+}
+
+
+:root {
+  --primary-bg: #141414;       /* Rich matte black */
+  --secondary-bg: #1F1F1F;     /* Slightly lighter for section contrast */
+  --accent1: #FF6B35;          /* Vibrant orange for strong highlights */
+  --lightaccent1: #FFA982;     /* Softer orange for hover or secondary accents */
+  --accent2: #00C1D4;          /* Cool aqua for complementary balance */
+  --text-primary: #F0F0F0;     /* Bright readable text */
+  --text-secondary: #B8B8B8;   /* Muted text for descriptions */
+  --border: #2A2A2A;           /* Subtle divider color */
+}
+
+
+:root {
+  --primary-bg: #0D1117;       /* Deep graphite black */
+  --secondary-bg: #161B22;     /* Slightly lighter for section contrast */
+  --accent1: #00ADB5;          /* Muted cyan for primary highlights */
+  --lightaccent1: #66D4D8;     /* Soft aqua for hover states */
+  --accent2: #FCA311;          /* Warm amber for secondary accents */
+  --text-primary: #EDEDED;     /* Clean white for high readability */
+  --text-secondary: #A5B2B8;   /* Muted cool-gray for details */
+  --border: #222831;           /* Charcoal-gray border */
+}
+
+
+:root {
+  --primary-bg: #0A0A0F;       /* Deep black with a slight blue tint */
+  --secondary-bg: #15151E;     /* Slightly lighter for contrast */
+  --accent1: #D100D1;          /* Vibrant magenta for primary highlights */
+  --lightaccent1: #FF6FFF;     /* Soft neon pink for hover states */
+  --accent2: #00E5FF;          /* Neon blue for secondary accents */
+  --text-primary: #F2F2F2;     /* Bright white for readability */
+  --text-secondary: #B5B5C2;   /* Muted cool gray for secondary text */
+  --border: #242434;           /* Subtle blue-gray for borders */
+}
